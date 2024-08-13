@@ -1,0 +1,163 @@
+export const courseData = [
+  {
+    id: 1,
+    image: "/images/learnhtml.jpg",
+    title: "LEARN HTML",
+    price: 19.99,
+    author: "AK A.",
+    reviewNumber: 50,
+    lessons: 10,
+    students: 50,
+    catagory: "programming",
+  },
+  {
+    id: 2,
+    image: "/images/learncss.png",
+    title: "LEARN CSS",
+    price: 19.99,
+    author: "Oumer G.",
+    reviewNumber: 35,
+    lessons: 10,
+    students: 40,
+    catagory: "programming",
+  },
+  {
+    id: 3,
+    image: "/images/learnjs.png",
+    title: "LEARN JS",
+    price: 29.99,
+    author: "Nuru .",
+    reviewNumber: 25,
+    lessons: 10,
+    students: 30,
+    catagory: "programming",
+  },
+  {
+    id: 4,
+    image: "/images/learncss.png",
+    title: "PROGRAMMER",
+    price: 49.99,
+    author: "John Doe",
+    reviewNumber: 450,
+    lessons: 20,
+    students: 150,
+    catagory: "programming",
+  },
+  {
+    id: 5,
+    image: "/images/learnjs.png",
+    title: "PROGRAMMER",
+    price: 49.99,
+    author: "John Doe",
+    reviewNumber: 450,
+    lessons: 20,
+    students: 150,
+    catagory: "PROGRAMMER",
+  },
+  {
+    id: 6,
+    image: "/images/learnhtml.jpg",
+    title: "PROGRAMMER",
+    price: 49.99,
+    author: "John Doe",
+    reviewNumber: 450,
+    lessons: 20,
+    students: 150,
+    catagory: "programming",
+  },
+];
+
+export const articleData = [
+  {
+    id: 1,
+    userImage: "/images/nuru.jpg",
+    userName: "Nuru .",
+    reaction: 45,
+    coverImage: "/images/learncss.png",
+    title: "Understanding java-Script",
+  },
+  {
+    id: 2,
+    userImage: "/images/ABDKERIM.jpg",
+    userName: "AK A.",
+    reaction: 45,
+    coverImage: "/images/learnjs.png",
+    title: "Understanding java-Script",
+  },
+  {
+    id: 3,
+    userImage: "/images/fozia.jpg",
+    userName: "Fozia F.",
+    reaction: 45,
+    coverImage: "/images/learnhtml.jpg",
+    title: "Understanding java-Script",
+  },
+  //   {
+  //     id: 4,
+  //     userImage: "/images/b1.jpg",
+  //     userName: "John doe",
+  //     reaction: 45,
+  //     coverImage: "/images/b1.jpg",
+  //     title: "Understanding java-Script",
+  //   },
+  //   {
+  //     id: 5,
+  //     userImage: "/images/b1.jpg",
+  //     userName: "John doe",
+  //     reaction: 45,
+  //     coverImage: "/images/b1.jpg",
+  //     title: "Understanding java-Script",
+  //   },
+  //   {
+  //     id: 6,
+  //     userImage: "/images/b1.jpg",
+  //     userName: "John doe",
+  //     reaction: 45,
+  //     coverImage: "/images/b1.jpg",
+  //     title: "Understanding java-Script",
+  //   },
+];
+
+export const SliderData = [
+  {
+    id: 1,
+    image: "/images/ABDKERIM.jpg",
+    name: "ABDELKERIM A.",
+    dept: "FULL STACK DEVELOPER",
+    feadback:
+      "I believe the advanced development courses and projects at your institution would be an excellent fit for my abilities and interests. I am eager to continue expanding my skills and knowledge under the guidance of your expert instructors.",
+  },
+  {
+    id: 2,
+    image: "/images/nuru.jpg",
+    name: "NURU M.",
+    dept: "AZURE DEVELOPER",
+    feadback:
+      "I believe the advanced development courses and projects at your institution would be an excellent fit for my abilities and interests. I am eager to continue expanding my skills and knowledge under the guidance of your expert instructors.",
+  },
+  {
+    id: 3,
+    image: "/images/fozia.jpg",
+    name: "FOZIA F",
+    dept: "AZURE ADMIN",
+    feadback:
+      "I believe the advanced development courses and projects at your institution would be an excellent fit for my abilities and interests. I am eager to continue expanding my skills and knowledge under the guidance of your expert instructors.",
+  },
+  {
+    id: 4,
+    image: "/images/selahudin.jpg",
+    name: "SELAHADIN A.",
+    dept: "DATA ANLYST",
+    feadback:
+      "I believe the advanced development courses and projects at your institution would be an excellent fit for my abilities and interests. I am eager to continue expanding my skills and knowledge under the guidance of your expert instructors.",
+  },
+
+  {
+    id: 5,
+    image: "/images/toiba.jpg",
+    name: "TOIBA G.",
+    dept: "AZURE ASSISTANT",
+    feadback:
+      "I believe the advanced development courses and projects at your institution would be an excellent fit for my abilities and interests. I am eager to continue expanding my skills and knowledge under the guidance of your expert instructors.",
+  },
+];
