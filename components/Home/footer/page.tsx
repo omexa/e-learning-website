@@ -82,7 +82,7 @@ function Footer() {
               <button>Submit</button>
             </div>
           </div>
-          <h1 className="text-white mb-10">&copy; Copyright Dev Oumer 2024</h1>
+          <h1 className="text-white mb-10">Copyright Dev Oumer 2024</h1>
         </div>
       </div>
     </footer>
