@@ -45,7 +45,7 @@ function Footer() {
           </div>
           <div className="flex  flex-col space-y-2">
             <h1 className="text-yellow-600  cursor-pointer text-3xl ">
-              COURSE'S
+              {"COURSE'S"}
             </h1>
             <h1 className="text-white hover:text-gray-300 cursor-pointer ">
               Learn Html
