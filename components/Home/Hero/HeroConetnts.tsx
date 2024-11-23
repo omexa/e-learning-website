@@ -25,12 +25,12 @@ function HeroConetnts() {
         data-aos-delay="100"
         className="mt-8 grid md:grid-cols-2  justify-center space-x-4 gap-4"
       >
-        <div className="flex bg-gray-300 px-2 overflow-hidden rounded-full justify-between  items-center">
+        <div className="flex bg-gray-300 px-2 overflow-hidden rounded-full justify-between  items-center border-2 border-black shadow-md">
           <input
             className="bg-gray-300 outline-none p-2"
             placeholder="what you need to learn?"
           />
-          <FaSearch className="w-8 h-8 text-purple-900 hover:text-purple-950 cursor-pointer" />
+          <FaSearch className="w-8 h-8 text-purple-900 hover:text-purple-950 cursor-pointer " />
         </div>
         <button className=" button_style bg-purple-950 hover:bg-purple-700">
           Get Started{" "}

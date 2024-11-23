@@ -62,7 +62,7 @@ function Footer() {
               ADDRESS
             </h1>
             <h1 className="text-white hover:text-gray-300 cursor-pointer ">
-              Email: oumer....@gmail.com
+              Email: oumergashaw20@gmail.com
             </h1>
             <h1 className="text-white hover:text-gray-300 cursor-pointer ">
               Phone: +251 00 00 00 000
